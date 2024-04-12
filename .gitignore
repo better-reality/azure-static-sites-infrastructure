@@ -41,3 +41,7 @@ populate_cred_env.sh
 
 # Ignore tfplan
 *.tfplan
+
+
+# Ignore secrets fodler
+**/secrets/*
